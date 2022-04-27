@@ -1,0 +1,5 @@
+mesh_id:test
+constraints:{
+	constraint_name1(value1, value2, value3)
+	constraint_name2
+}

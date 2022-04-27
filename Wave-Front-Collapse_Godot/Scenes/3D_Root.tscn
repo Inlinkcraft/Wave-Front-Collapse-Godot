@@ -1,0 +1,7 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Wave_Front_Collapse/WFC_Root.tscn" type="PackedScene" id=1]
+
+[node name="3D_Root" type="Spatial"]
+
+[node name="WFC_Root" parent="." instance=ExtResource( 1 )]
